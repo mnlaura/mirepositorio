@@ -1,0 +1,7 @@
+Panel
+----------
+-Incluir logo
+-Opciones de perfil
+-Estado de informacion de proyectos
+-pie de pag
+
