@@ -1,0 +1,17 @@
+Pagina Principal
+-----------
+Logo y la opcion de buscar
+
+Creado menu con opciones
+
+Slider con 4 imagenes
+
+Servicios con 6 tarjetas
+
+Llamada auna acción
+
+Mostarra los logos de los auspiciadores
+
+Fotos de los ejecutivos de la empresas
+
+Pie de pagina
